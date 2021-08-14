@@ -5,3 +5,14 @@ For more information please check the graph genreated from ML code.
 (week-2)
 This is basic multiple linear regression code. In this the profit is predicted using regression.
 For more information please check the compared ouput genreated from ML code.
+(week-3)
+This file contains multiple algorithm implemaentation. In this project i have predicted whether the user click the ad or not using following algorithms:
+● Logistic Regression
+● K Nearest Neighbour
+● Support Vector Machine (linear kernel)
+● Kernel SVM (rbf or polynomial kernel)
+● Naive Bayes
+● Decision Tree Classification
+● Random Forest Classification
+The performance of the model can be evaluated using a confusion matrix and accuracy score
+and choose the model which has a high accuracy score.
